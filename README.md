@@ -1,0 +1,1 @@
+# Strukdat-sem.2
