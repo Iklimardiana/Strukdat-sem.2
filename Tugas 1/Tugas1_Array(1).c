@@ -11,3 +11,6 @@ int main(){
 	return 0;
 }
 
+//komentar baru 1
+//komentar baru 2
+
